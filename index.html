@@ -27,9 +27,10 @@
   </a>
 </div>
 
-<i class="fa fa-solid fa-bars" onclick="showMenu()"></i>
 
-<nav class="nav-links" id="navLinks">
+
+<nav class="nav-links" id="navbar">
+    <i class="fa fa-solid fa-bars" onclick="showMenu()"></i>
 <img src="./image/KEEz (1).jpg" alt="">
 <i class="fa fa-times" onclick="hideMenu()"></i>
 <ul id="menu">
@@ -127,8 +128,9 @@
           <h6>Quick Links</h6>
           <ul class="footer-links">
           <li> <a href="#about">ABOUT</a></li>
-            <li><a href="#service">SERVICES</a></li>
-            <li><a href="#work">CLIENTS</a></li>
+          <li><a href="#clients">CLIENTS</a></li>
+            <li><a href="#services">SERVICES</a></li>
+            
             <li><a href="#contact"><b>CONTACT</b> </a></li>
             <li ><a  href="Blog.html">BLOG</a></li>
           </ul>
@@ -175,7 +177,7 @@
       
       <script>
       
-          var navbar = document.getElementById("navbar");
+          var navbar = document.getElementById("nav-links");
           var menu = document.getElementById("menu");
       
           window.onscroll = function(){
@@ -191,14 +193,14 @@
       </script>
           
       <script>
-              var navLinks = document.getElementById("navLinks");
+              var navLinks = document.getElementById("navbar");
           
               function showMenu(){
                   navLinks.style.right = "0";
               }
           
               function hideMenu(){
-                  navLinks.style.right = "-500px";
+                  navLinks.style.right = "-200px";
               }
               
       
