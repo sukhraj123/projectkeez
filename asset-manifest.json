@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projectkeez/static/css/main.484a75a7.css",
-    "main.js": "/projectkeez/static/js/main.3b2c5a68.js",
+    "main.css": "/projectkeez/static/css/main.dfc644e2.css",
+    "main.js": "/projectkeez/static/js/main.07e3f57e.js",
     "static/media/Untitled design (6).gif": "/projectkeez/static/media/Untitled design (6).525d0fa0a55d9560fb46.gif",
     "static/media/TR7.gif": "/projectkeez/static/media/TR7.0ca7aa86079a3e024f00.gif",
     "static/media/m (2).jpg": "/projectkeez/static/media/m (2).f6c50812b4ede3f4b5b5.jpg",
@@ -9,11 +9,11 @@
     "static/media/m (1).jpg": "/projectkeez/static/media/m (1).f737d92f893ab8d78b07.jpg",
     "static/media/1.jpg": "/projectkeez/static/media/1.13b10b0faff8357f3d66.jpg",
     "index.html": "/projectkeez/index.html",
-    "main.484a75a7.css.map": "/projectkeez/static/css/main.484a75a7.css.map",
-    "main.3b2c5a68.js.map": "/projectkeez/static/js/main.3b2c5a68.js.map"
+    "main.dfc644e2.css.map": "/projectkeez/static/css/main.dfc644e2.css.map",
+    "main.07e3f57e.js.map": "/projectkeez/static/js/main.07e3f57e.js.map"
   },
   "entrypoints": [
-    "static/css/main.484a75a7.css",
-    "static/js/main.3b2c5a68.js"
+    "static/css/main.dfc644e2.css",
+    "static/js/main.07e3f57e.js"
   ]
 }
