@@ -67,7 +67,7 @@ header{
 }
 .icon-bar {
   position: fixed;
-  top: 30%;
+  top: 80%;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
